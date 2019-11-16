@@ -4,6 +4,8 @@
 ## Somaire
 - [Solfège](#Solfège)
 	- [Règles d'un accord](#règles-dun-accord-)
+	- [Game majeur](#game-majeur-)
+	- [Games mineurs](#games-mineurs-)
 - [À savoir](#à-savoir)
 - [Liens utiles](#Liens-utiles)
 ## Solfège
@@ -15,15 +17,7 @@
 ### Game majeur :
 -  **La Game Majeur** définit une classe de gammes diatoniques caractérisées par les intervalles suivants :  **ton - ton - 1/2 ton - ton - ton - ton - 1/2 ton**
 
-	
-1
-½
-1
-1
-½
-1,5
-
-### Game mineur :
+### Games mineurs :
 - **La Game Mineur Naturelle** définit par les intervalles : **ton - 1/2 ton - ton - ton - 1/2 ton - ton - ton**
 - **La Game Mineur Harmonique** définit par les intervalles : **ton - 1/2 ton - ton - ton - 1/2 ton - 1,5 ton - 1/2 ton**
 - **La Game Mineur Mélodique** définit par les intervalles : **ton - 1/2 ton - ton - ton - ton - ton - 1/2 ton**

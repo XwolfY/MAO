@@ -4,8 +4,8 @@
 ## Somaire
 - [Solfège](#Solfège)
 	- [Règles d'un accord](#règles-dun-accord-)
-	- [Game majeure](#game-majeure-)
-	- [Games mineures](#games-mineures-)
+	- [Gamme majeure](#gamme-majeure-)
+	- [Gammes mineures](#gammes-mineures-)
 - [À savoir](#à-savoir)
 - [Liens utiles](#Liens-utiles)
 ## Solfège

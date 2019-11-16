@@ -1,6 +1,11 @@
 # Memento beatmaking!
 <div align=center><img src="http://happywebbee.com/wp-content/uploads/2017/06/beat-for-sale.jpg" height=300/></div>
 
+## Somaire
+- [Solfège](#Solfège)
+-- [Règles d'un accord]()
+- [À savoir]()
+- [Liens utiles](#Liens_utiles)
 ## Solfège
 <div align=center><img src="http://blog.carpediese.fr/wp-content/uploads/2013/09/touches-du-piano.jpg" height=300/></div>
 

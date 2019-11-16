@@ -27,8 +27,8 @@
 
 ### Règles d'un accord :
 - **Minimum 3 notes** (*Fondamentale, Tierce & Quinte* *[Septième & Neuvième]*)
--- Accord Do Majeur `Do Mi Sol` 
--- Accord La Majeur 
+	- Accord Do Majeur `Do Mi Sol` 
+	- Accord La Majeur `La Do# Mi`
 
 ## À savoir
 - Il y a un lien entre les  `notes` est les `fréquences`

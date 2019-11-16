@@ -3,8 +3,8 @@
 
 ## Somaire
 - [Solfège](#Solfège)
--- [Règles d'un accord]()
-- [À savoir](#À-savoir)
+-- [Règles d'un accord](#r%C3%A8gles-dun-accord)
+- [À savoir](#à-savoir)
 - [Liens utiles](#Liens-utiles)
 ## Solfège
 <div align=center><img src="http://blog.carpediese.fr/wp-content/uploads/2013/09/touches-du-piano.jpg" height=300/></div>

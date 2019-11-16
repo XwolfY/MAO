@@ -3,7 +3,7 @@
 
 ## Somaire
 - [Solfège](#Solfège)
--- [Règles d'un accord](#r%C3%A8gles-dun-accord)
+-- [Règles d'un accord](#règles-dun-accord-)
 - [À savoir](#à-savoir)
 - [Liens utiles](#Liens-utiles)
 ## Solfège

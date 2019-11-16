@@ -16,8 +16,7 @@
 
 ### Game majeur :
 -  **La Game Majeur** définit une classe de gammes diatoniques caractérisées par les intervalles suivants : 
-**ton&nbsp;-&nbsp;
-ton&nbsp;-&nbsp;1/2&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;1/2&nbsp;ton**
+**ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;1/2&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;1/2&nbsp;ton**
 
 ### Games mineurs :
 - **La Game Mineur Naturelle** définit par les intervalles : **ton - 1/2 ton - ton - ton - 1/2 ton - ton - ton**

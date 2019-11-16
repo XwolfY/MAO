@@ -35,6 +35,8 @@
 - Le `Spectrum` ou le `Tuner` peut servir pour déterminer **la note fondamentale**
 
 	<div align=center><img src="https://i.ytimg.com/vi/YLjgI0nP-Ag/maxresdefault.jpg" height=200/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.ytimg.com/vi/TQvLzFb-GBA/hqdefault.jpg" height=200/></div>
+	
+- Beaucoup de hits sont composés a partir des accors : `Mi majeur Si majeur Do# majeur La majeur`
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 

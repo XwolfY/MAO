@@ -12,8 +12,13 @@
 	DO RE MI FA SOL LA SI => Echelle diatonique (7 degrès)
 	DO DO# RE RE# MI FA FA# SOL SOL# LA LA# SI => Echelle chromatique (12 degrès)
 
+### Game majeur :
+-  **La Game Majeur** définit une classe de gammes diatoniques caractérisées par les intervalles suivants :  **ton - ton - 1/2 ton - ton - ton - ton - 1/2 ton**
+
+### Game mineur :
+- ** La Game Mineur Naturelle** définit par les intervalles : **ton - 1/2 ton - ton - ton - 1/2 ton - ton - ton **
+
 ### Règles d'un accord :
-- **La Game Majeur** définit une classe de gammes diatoniques caractérisées par les intervalles suivants : **ton - ton - 1/2 ton - ton - ton - ton - 1/2 ton**
 - **Minimum 3 notes** (*Fondamentale, Tierce & Quinte* *[Septième & Neuvième]*)
 -- Accord Do Majeur `Do Mi Sol` 
 -- Accord La Majeur 

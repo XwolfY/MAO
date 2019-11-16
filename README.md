@@ -15,7 +15,8 @@
 	DO DO# RE RE# MI FA FA# SOL SOL# LA LA# SI => Echelle chromatique (12 degrès)
 
 ### Game majeur :
--  **La Game Majeur** définit une classe de gammes diatoniques caractérisées par les intervalles suivants :  **ton&nbsp;-&nbsp;
+-  **La Game Majeur** définit une classe de gammes diatoniques caractérisées par les intervalles suivants : 
+**ton&nbsp;-&nbsp;
 ton&nbsp;-&nbsp;1/2&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;1/2&nbsp;ton**
 
 ### Games mineurs :

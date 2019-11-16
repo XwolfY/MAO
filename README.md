@@ -45,3 +45,4 @@
 - [La gamme majeure](http://www.solfego.fr/la-gamme-majeure.htm)
 - [La gamme mineure](http://www.solfego.fr/la-gamme-mineure.htm)
 - [Les differents types de gammes mineures](https://composer-sa-musique.fr/les-differents-types-de-gammes-mineures/)
+- [Les accords magiques (electro)](http://le-son-ableton.fr/wp-content/uploads/2012/12/accods-electro.jpg)

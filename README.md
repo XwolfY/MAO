@@ -3,9 +3,9 @@
 
 ## Somaire
 - [Solfège](#Solfège)
-	- [Règles d'un accord](#règles-dun-accord-)
 	- [Gamme majeure](#gamme-majeure-)
 	- [Gammes mineures](#gammes-mineures-)
+	- [Règles d'un accord](#règles-dun-accord-)
 - [À savoir](#à-savoir)
 - [Liens utiles](#Liens-utiles)
 ## Solfège

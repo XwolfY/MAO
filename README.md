@@ -39,7 +39,7 @@
 
 	<div align=center><img src="https://i.ytimg.com/vi/YLjgI0nP-Ag/maxresdefault.jpg" height=200/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.ytimg.com/vi/TQvLzFb-GBA/hqdefault.jpg" height=200/></div>
 	
-- Beaucoup de hits sont composés a partir des accords : `Mi majeur Si majeur Do# mineur La majeur`
+- Beaucoup de hits sont composés a partir des accords : `Mi Si Do# mineur La` (Pop) ou `Fa Sol La mineur Do` (Electro)
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 

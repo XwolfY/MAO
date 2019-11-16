@@ -14,6 +14,8 @@
 	DO RE MI FA SOL LA SI => Echelle diatonique (7 degrès)
 	DO DO# RE RE# MI FA FA# SOL SOL# LA LA# SI => Echelle chromatique (12 degrès)
 
+- La tonalité d'un morceau est un élement important qui équivaut au ton de la musique
+
 ### Gamme majeure :
 -  **La Gamme Majeure** définit une classe de gammes diatoniques caractérisées par les intervalles suivants : 
 **ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;1/2&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;1/2&nbsp;ton**

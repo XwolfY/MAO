@@ -4,8 +4,8 @@
 ## Somaire
 - [Solfège](#Solfège)
 	- [Règles d'un accord](#règles-dun-accord-)
-	- [Game majeur](#game-majeur-)
-	- [Games mineurs](#games-mineurs-)
+	- [Game majeure](#game-majeure-)
+	- [Games mineures](#games-mineures-)
 - [À savoir](#à-savoir)
 - [Liens utiles](#Liens-utiles)
 ## Solfège
@@ -14,14 +14,14 @@
 	DO RE MI FA SOL LA SI => Echelle diatonique (7 degrès)
 	DO DO# RE RE# MI FA FA# SOL SOL# LA LA# SI => Echelle chromatique (12 degrès)
 
-### Game majeur :
--  **La Game Majeur** définit une classe de gammes diatoniques caractérisées par les intervalles suivants : 
+### Gamme majeure :
+-  **La Gamme Majeure** définit une classe de gammes diatoniques caractérisées par les intervalles suivants : 
 **ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;1/2&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;ton&nbsp;-&nbsp;1/2&nbsp;ton**
 
-### Games mineurs :
-- **La Game Mineur Naturelle** définit par les intervalles : **ton - 1/2 ton - ton - ton - 1/2 ton - ton - ton**
-- **La Game Mineur Harmonique** définit par les intervalles : **ton - 1/2 ton - ton - ton - 1/2 ton - 1,5 ton - 1/2 ton**
-- **La Game Mineur Mélodique** définit par les intervalles : **ton - 1/2 ton - ton - ton - ton - ton - 1/2 ton**
+### Gammes mineures :
+- **La Gamme Mineure Naturelle** définit par les intervalles : **ton - 1/2 ton - ton - ton - 1/2 ton - ton - ton**
+- **La Gamme Mineure Harmonique** définit par les intervalles : **ton - 1/2 ton - ton - ton - 1/2 ton - 1,5 ton - 1/2 ton**
+- **La Gamme Mineure Mélodique** définit par les intervalles : **ton - 1/2 ton - ton - ton - ton - ton - 1/2 ton**
 
 ### Règles d'un accord :
 - **Minimum 3 notes** (*Fondamentale, Tierce & Quinte* *[Septième & Neuvième]*)
@@ -38,4 +38,6 @@
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 
-- [Les differents types de gamme mineur](https://composer-sa-musique.fr/les-differents-types-de-gammes-mineures/)
+- [La gamme majeure](http://www.solfego.fr/la-gamme-majeure.htm)
+- [La gamme mineure](http://www.solfego.fr/la-gamme-mineure.htm)
+- [Les differents types de gammes mineures](https://composer-sa-musique.fr/les-differents-types-de-gammes-mineures/)

@@ -33,6 +33,7 @@
 	- Accord La Mineur `La Do Mi`
 
 ### Notion de cadence :
+Les cadences sont à la musique ce que les signes de ponctuation sont à la littérature. Elles servent à aérer et structurer le discours musical.
 <div align=center><img src="https://composer-sa-musique.fr/wp-content/uploads/2014/03/sch%C3%A9ma-2.jpg" height=250/></div>
 
 - **Recap**

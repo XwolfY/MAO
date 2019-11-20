@@ -6,6 +6,7 @@
 	- [Gamme majeure](#gamme-majeure-)
 	- [Gammes mineures](#gammes-mineures-)
 	- [Règles d'un accord](#règles-dun-accord-)
+	- [Notion de cadence](#notion-de-cadence-)
 - [À savoir](#à-savoir)
 - [Liens utiles](#Liens-utiles)
 ## Solfège

@@ -34,6 +34,9 @@
 ### Notion de cadence :
 <div align=center><img src="https://composer-sa-musique.fr/wp-content/uploads/2014/03/sch%C3%A9ma-2.jpg" height=250/></div>
 
+- Recap
+<div align=center><img src="https://composer-sa-musique.fr/wp-content/uploads/2014/03/sch%C3%A9ma-8.jpg" height=250/></div>
+
 ## À savoir
 - Il y a un lien entre les  `notes` est les `fréquences`
 

@@ -9,7 +9,8 @@
 	- [Règles d'un accord](#règles-dun-accord-)
 	- [Notion de cadence](#notion-de-cadence-)
 - [À savoir](#à-savoir)
-- [Bases du Hardstyle](#bases-du-hardstyle-)
+- [Les Bases du Hardstyle](#les-bases-du-hardstyle-)
+	- [Le kick](#le-kick)
 - [Liens utiles](#Liens-utiles)
 ## Solfège
 <div align=center><img src="http://blog.carpediese.fr/wp-content/uploads/2013/09/touches-du-piano.jpg" height=300/></div>

@@ -51,6 +51,8 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 	
 - Beaucoup de hits sont composés a partir des accords : `Mi Si Do# mineur La` (Pop) ou `Fa Sol La mineur Do` (Electro)
 
+- La **tonnalité** détermine la note fondamentale ainsi que l'ensemble des accords qui vont être joué sur le morceau
+
 ## Les Bases du Hardstyle
 - 3 majeures catégories de son pour faire du hardstyle : 
 		- Les **LEADS** = mélodie

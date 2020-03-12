@@ -9,7 +9,7 @@
 	- [Règles d'un accord](#règles-dun-accord-)
 	- [Notion de cadence](#notion-de-cadence-)
 - [À savoir](#à-savoir)
-- [Les Bases du Hardstyle](#les-bases-du-hardstyle-)
+- [Les Bases du Hardstyle](#les-bases-du-hardstyle)
 	- [Le kick](#le-kick)
 - [Liens utiles](#Liens-utiles)
 ## Solfège

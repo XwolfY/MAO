@@ -83,3 +83,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Les differents types de gammes mineures](https://composer-sa-musique.fr/les-differents-types-de-gammes-mineures/)
 - [Les accords magiques (electro)](http://le-son-ableton.fr/wp-content/uploads/2012/12/accods-electro.jpg)
 - [Les bases du hardstyles en 15 min](https://www.youtube.com/watch?v=jwhrNoo7ZPA)
+- [Comprendre l'ADSR (Attack Decay Sustain Release)](https://www.youtube.com/watch?v=KIIbX4UGAVU)

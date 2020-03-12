@@ -1,3 +1,4 @@
+
 # Memento beatmaking!
 <div align=center><img src="http://happywebbee.com/wp-content/uploads/2017/06/beat-for-sale.jpg" height=300/></div>
 
@@ -8,6 +9,7 @@
 	- [Règles d'un accord](#règles-dun-accord-)
 	- [Notion de cadence](#notion-de-cadence-)
 - [À savoir](#à-savoir)
+- [Bases du Hardstyle](#bases-du-hardstyle-)
 - [Liens utiles](#Liens-utiles)
 ## Solfège
 <div align=center><img src="http://blog.carpediese.fr/wp-content/uploads/2013/09/touches-du-piano.jpg" height=300/></div>
@@ -48,6 +50,19 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 	<div align=center><img src="https://i.ytimg.com/vi/YLjgI0nP-Ag/maxresdefault.jpg" height=200/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.ytimg.com/vi/TQvLzFb-GBA/hqdefault.jpg" height=200/></div>
 	
 - Beaucoup de hits sont composés a partir des accords : `Mi Si Do# mineur La` (Pop) ou `Fa Sol La mineur Do` (Electro)
+
+## Les Bases du Hardstyle
+- 3 majeures catégories de son pour faire du hardstyle : 
+		- Les **LEADS** = mélodie
+		- Les **CHORDS** = accords de la mélodie
+		- Les **BASS**
+
+*Tips: Ajouter une basse avec une arpège en fond pour ajouter du rythme à la mélodie (cf: [vidéo youtube](https://www.youtube.com/watch?v=jwhrNoo7ZPA) 3m19)*
+
+- Bass : Note fondamentale uniquement
+- Chords : Accords de la gamme choisi
+- Leads : Note joué sur les accords afin de constituer la mélodie
+
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 
@@ -55,3 +70,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [La gamme mineure](http://www.solfego.fr/la-gamme-mineure.htm)
 - [Les differents types de gammes mineures](https://composer-sa-musique.fr/les-differents-types-de-gammes-mineures/)
 - [Les accords magiques (electro)](http://le-son-ableton.fr/wp-content/uploads/2012/12/accods-electro.jpg)
+- [Les bases du hardstyles en 15 min](https://www.youtube.com/watch?v=jwhrNoo7ZPA)

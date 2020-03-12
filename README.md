@@ -59,10 +59,19 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 
 *Tips: Ajouter une basse avec une arpège en fond pour ajouter du rythme à la mélodie (cf: [vidéo youtube](https://www.youtube.com/watch?v=jwhrNoo7ZPA) 3m19)*
 
-- Bass : Note fondamentale uniquement
-- Chords : Accords de la gamme choisi
-- Leads : Note joué sur les accords afin de constituer la mélodie
+	- Bass : Note fondamentale uniquement
+	- Chords : Accords de la gamme choisi
+	- Leads : Note joué sur les accords afin de constituer la mélodie
 
+- ### Le kick
+		- Le kick est constitué de 2 parties :
+			- L'Attack ( partie du début qui tape ^^)
+			- La Tail [la queue] ( fin du kick en général une basse agressive )
+		
+		{On peut y ajouter un effet de reverse à la fin afin d'appeler le prochain kick}
+		
+		De nos jour le kick peut être travaillé en 3 parties en y ajoutant la partie du millieu
+		 
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 

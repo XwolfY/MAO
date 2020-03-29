@@ -74,7 +74,7 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 		{On peut y ajouter un effet de reverse à la fin afin d'appeler le prochain kick}
 		
 		De nos jour le kick peut être travaillé en 3 parties en y ajoutant la partie du millieu
-		 
+		[img](https://i.ytimg.com/vi/ih1WW4_Y9IQ/maxresdefault.jpg)
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 

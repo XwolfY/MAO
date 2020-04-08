@@ -54,10 +54,12 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 
 - La **tonnalité** détermine la note fondamentale ainsi que l'ensemble des accords qui vont être joué sur le morceau
 
-- Principe du mono et stéréo :
+- Principe du **mono** et **stéréo** :
 	- Fréquences graves (style kick) en mono afin que ça soit percutant
 	- Fréquences aïgues peuvent être plus en stéréo
 	- Plugin Ozone Imager pour visualiser la stéréo d'un son
+	
+- Utilisation des reférences tracks (cf. live twitch felckin)
 ## Les Bases du Hardstyle
 - 3 majeures catégories de son pour faire du hardstyle : 
 		- Les **LEADS** = mélodie

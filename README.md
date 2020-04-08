@@ -59,7 +59,7 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 	- Fréquences aïgues peuvent être plus en stéréo
 	- Plugin Ozone Imager pour visualiser la stéréo d'un son
 	
-- Utilisation des reférences tracks (cf. live twitch felckin)
+- Utilisation des reférences tracks (cf. live twitch felckin) afin d'avoir une réf sur les volumes des sons, structure du morceau, etc..
 ## Les Bases du Hardstyle
 - 3 majeures catégories de son pour faire du hardstyle : 
 		- Les **LEADS** = mélodie

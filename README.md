@@ -58,6 +58,11 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 	- Fréquences graves (style kick) en mono afin que ça soit percutant
 	- Fréquences aïgues peuvent être plus en stéréo
 	- Plugin Ozone Imager pour visualiser la stéréo d'un son
+- Pour faire un bon **rise** (montée) :
+	- Automation du **pitch** vers les aigues
+	- Automation d'un **filtre** qui souvre vers les aigues
+	- Endless Smile VST en automation (rajoute plusieurs effets style reverb, echo, delay, ...)
+	- Ajout de plusieurs rise differents
 	
 - Utilisation des reférences tracks (cf. live twitch felckin) afin d'avoir une réf sur les volumes des sons, structure du morceau, etc..
 ## Les Bases du Hardstyle

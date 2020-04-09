@@ -99,3 +99,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Comprendre l'ADSR (Attack Decay Sustain Release)](https://www.youtube.com/watch?v=KIIbX4UGAVU)
 - [3 façon de trouver la tonalité d'un morceau](https://guitare-et-couleurs.com/trouver-la-tonalite-d-un-morceau-a-partir-de-sa-grille-d-accords/)
 - [Sandbox apprendre les gammes - ableton](https://learningmusic.ableton.com/fr/notes-and-scales/play-with-notes-and-scales.html)
+- [Vst Crack fiable](http://vsthouse.ru/)

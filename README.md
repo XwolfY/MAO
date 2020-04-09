@@ -64,9 +64,9 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 	- Endless Smile VST en automation (rajoute plusieurs effets style reverb, echo, delay, ...)
 	- Ajout de plusieurs rise differents
 	- Automation du volume avec un Auto Pan 
-	- Auto filter
+	- Auto filter (low pass & trick high pass vers la fin)
 	
-- Utilisation des reférences tracks (cf. live twitch felckin) afin d'avoir une réf sur les volumes des sons, structure du morceau, etc..
+- Utilisation des reférences tracks (cf. [live twitch felckin](https://www.twitch.tv/videos/586687801)) afin d'avoir une réf sur les volumes des sons, structure du morceau, etc..
 ## Les Bases du Hardstyle
 - 3 majeures catégories de son pour faire du hardstyle : 
 		- Les **LEADS** = mélodie

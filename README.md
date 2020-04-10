@@ -102,3 +102,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Sandbox apprendre les gammes - ableton](https://learningmusic.ableton.com/fr/notes-and-scales/play-with-notes-and-scales.html)
 - [Vst Crack fiable](http://vsthouse.ru/)
 - [Rekordbox](https://rekordbox.com/fr/)
+- [Manipulator pour effet perché voice](https://polyversemusic.com/products/manipulator/)

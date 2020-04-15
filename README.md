@@ -68,6 +68,13 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 	- Possibilité d'ajouter de la reverb aussi
 - **OTT effect** use with a multi band compressor in most of electro music
 - Utilisation des reférences tracks (cf. [live twitch felckin](https://www.twitch.tv/videos/586687801)) afin d'avoir une réf sur les volumes des sons, structure du morceau, etc..
+- La Bass
+	- Faire du layering afin d'enrichir le morceau [ 1 Bass aïgue / 1 Bass Medium / 1 Bass Grave]
+
+- Effet sur la Master [cf live felckin]
+	- Effet Secret Ott by retrovision
+	- Ajouter un FabFilter-Pro L2 pour augmenter le volume final
+
 ## Les Bases du Hardstyle
 - 3 majeures catégories de son pour faire du hardstyle : 
 		- Les **LEADS** = mélodie
@@ -89,12 +96,6 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 		
 		De nos jour le kick peut être travaillé en 3 parties en y ajoutant la partie du millieu
 	<div align=center><img src="https://i.ytimg.com/vi/ih1WW4_Y9IQ/maxresdefault.jpg" height=300/></div>
-- ### La Bass
-	- Faire du layering afin d'enrichir le morceau [ 1 Bass aïgue / 1 Bass Medium / 1 Bass Grave]
-
-- ### Effet sur la Master [cf live felckin]
-	- Effet Secret Ott by retrovision
-	- Ajouter un FabFilter-Pro L2 pour augmenter le volume final
 
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 

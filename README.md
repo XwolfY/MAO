@@ -89,6 +89,9 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 		
 		De nos jour le kick peut être travaillé en 3 parties en y ajoutant la partie du millieu
 	<div align=center><img src="https://i.ytimg.com/vi/ih1WW4_Y9IQ/maxresdefault.jpg" height=300/></div>
+- ### La Bass
+	- Faire du layering afin d'enrichir le morceau [ 1 Bass aïgue / 1 Bass Medium / 1 Bass Grave]
+
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 

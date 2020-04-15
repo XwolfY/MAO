@@ -92,6 +92,10 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - ### La Bass
 	- Faire du layering afin d'enrichir le morceau [ 1 Bass aïgue / 1 Bass Medium / 1 Bass Grave]
 
+- ### Effet sur la Master [cf live felckin]
+	- Effet Secret Ott by retrovision
+	- Ajouter un FabFilter-Pro L2 pour augmenter le volume final
+
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 

@@ -115,3 +115,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Effet Fetcher Munson (link 1)](https://ehomerecordingstudio.com/fletcher-munson-curve/#:~:text=The%20Fletcher%20Munson%20Curve%20is,rate%2C%20depending%20on%20the%20frequency.)
 - [Effect Fetcher Munson (link 2)](https://producerhive.com/ask-the-hive/fletcher-munson-curve-simple-explanation/)
 - [Relation Gamme / Accord](https://compositiondemao.com/la-relation-entre-les-accords-et-les-gammes/)
+- [Glue Compressor Tuto Ableton](https://www.ableton.com/en/blog/working-live-9s-new-glue-compressor-new-tutorial-dubspot/)

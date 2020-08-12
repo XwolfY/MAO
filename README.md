@@ -97,6 +97,10 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 		De nos jour le kick peut être travaillé en 3 parties en y ajoutant la partie du millieu
 	<div align=center><img src="https://i.ytimg.com/vi/ih1WW4_Y9IQ/maxresdefault.jpg" height=300/></div>
 
+## Astuces Techno / Minimal
+- Reverb is very important to make the sound less dry
+- Drum Buss can be use to boost drums like kick
+
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 

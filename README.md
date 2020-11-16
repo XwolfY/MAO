@@ -8,6 +8,7 @@
 	- [Gammes mineures](#gammes-mineures-)
 	- [Règles d'un accord](#règles-dun-accord-)
 	- [Notion de cadence](#notion-de-cadence-)
+	- [Qu'est ce que l'harmonie](https://blog.landr.com/fr/harmonie-en-musique/)
 - [À savoir](#à-savoir)
 - [Les Bases du Hardstyle](#les-bases-du-hardstyle)
 	- [Le kick](#le-kick)
@@ -123,3 +124,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Glue Compressor Tuto Ableton](https://www.ableton.com/en/blog/working-live-9s-new-glue-compressor-new-tutorial-dubspot/)
 - [18 Formes d'accords transposable (guitare)](https://guitare-et-couleurs.com/18-formes-d-accords-transposables/)
 - [Construire vos propres accords (video)](https://www.youtube.com/watch?v=lTWLL3hZ3RY)
+- [Qu'est ce que l'harmonie](https://blog.landr.com/fr/harmonie-en-musique/)

@@ -67,6 +67,8 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 	- Automation du volume avec un Auto Pan 
 	- Auto filter (low pass & trick high pass vers la fin (Ajouter un peu de resonnance pour plus d'effet))
 	- Possibilité d'ajouter de la reverb aussi
+	- Jouer sur la velocité peux parfois être utile (Si celle ci est relié à différent effets)
+	
 - **OTT effect** use with a multi band compressor in most of electro music
 - Utilisation des reférences tracks (cf. [live twitch felckin](https://www.twitch.tv/videos/586687801)) afin d'avoir une réf sur les volumes des sons, structure du morceau, etc..
 - La Bass

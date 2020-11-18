@@ -97,7 +97,7 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 		
 		De nos jour le kick peut être travaillé en 3 parties en y ajoutant la partie du millieu
 	<div align=center><img src="https://i.ytimg.com/vi/ih1WW4_Y9IQ/maxresdefault.jpg" height=300/></div>
-
+		- Cf. [Vidéo: Comment faire un kick hardstyle ?](https://www.youtube.com/watch?v=o2hdDIOp-4g)
 ## Astuces Techno / Minimal
 - Reverb is very important to make the sound less dry
 - Drum Buss can be use to boost drums like kick
@@ -125,3 +125,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [18 Formes d'accords transposable (guitare)](https://guitare-et-couleurs.com/18-formes-d-accords-transposables/)
 - [Construire vos propres accords (video)](https://www.youtube.com/watch?v=lTWLL3hZ3RY)
 - [Qu'est ce que l'harmonie](https://blog.landr.com/fr/harmonie-en-musique/)
+- [Comment faire un kick hardstyle](https://www.youtube.com/watch?v=o2hdDIOp-4g)

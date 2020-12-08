@@ -129,3 +129,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Qu'est ce que l'harmonie](https://blog.landr.com/fr/harmonie-en-musique/)
 - [Comment faire un kick hardstyle](https://www.youtube.com/watch?v=o2hdDIOp-4g)
 - [Harmonie Fonctionnelle](http://www.aprlmusic.com/?tag=harmonie-fonctionnelle)
+- [Les Modes en musiques](https://fr.wikipedia.org/wiki/Mode_(musique))

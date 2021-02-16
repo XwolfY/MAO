@@ -161,3 +161,6 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Splice: samples](https://splice.com/)
 - [Les signaux: A quoi servent-ils ?](https://fr.audiofanzine.com/synthetiseur-modulaire/editorial/dossiers/les-signaux-partie-1-a-quoi-servent-ils.html)
 - [What is tonality in music ?](https://www.schoolofcomposition.com/what-is-tonality-in-music/)
+- [147 WAYS TO WRITE A MELODY - Andrew Huang YTB](https://www.youtube.com/watch?v=I2Ej4Jpquas)
+- [147 WAYS TO WRITE A MELODY - Andrew Huang Stylesheet](https://docs.google.com/spreadsheets/d/1Sy1kxzHqPFwe-MShg6OXlh8pC9aDltermSO4IvqVqUU/edit#gid=0)
+- [How to make TRACKS and not just LOOPS - Andrew Huang YTB](https://www.youtube.com/watch?v=NEy9L7zyrGE&t=446s)

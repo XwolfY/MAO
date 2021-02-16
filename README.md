@@ -159,3 +159,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Sound design: Le Layering](https://la-guerre-des-potards.com/sound-design-layering/)
 - [Splice: samples](https://splice.com/)
 - [Les signaux: A quoi servent-ils ?](https://fr.audiofanzine.com/synthetiseur-modulaire/editorial/dossiers/les-signaux-partie-1-a-quoi-servent-ils.html)
+- [What is tonality in music ?](https://www.schoolofcomposition.com/what-is-tonality-in-music/)

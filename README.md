@@ -13,6 +13,7 @@
 - [Le Layering](#Layering)
 - [Les Bases du Hardstyle](#les-bases-du-hardstyle)
 	- [Le kick](#le-kick)
+- [Astuces Techno / Minimal](#astuces-technos-/-minimal)
 - [Liens utiles](#Liens-utiles)
 ## Solfège
 <div align=center><img src="http://blog.carpediese.fr/wp-content/uploads/2013/09/touches-du-piano.jpg" height=300/></div>

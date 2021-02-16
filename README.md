@@ -127,7 +127,7 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 		Ce type de synthétiseur est donc apprécié pour le grand nombre de possibilités qu'il offre dans le design sonore,
 		et pour la possibilité de personnaliser le choix des modules présents selon les besoins.
 
-<div align=center><img src="https://i.ytimg.com/vi/l7Ig1ieeW5U/maxresdefault.jpg" height=300/></div>
+<div align=center><img src="https://static.kvraudio.com/i/b/rack_v1.png" height=300/></div>
 
 - [Les signaux: A quoi servent-ils ?](https://fr.audiofanzine.com/synthetiseur-modulaire/editorial/dossiers/les-signaux-partie-1-a-quoi-servent-ils.html)
 

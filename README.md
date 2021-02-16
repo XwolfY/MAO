@@ -115,7 +115,7 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 ## Music Modular: VCV Rack
 - VCV Rack est un synthétiseur modulaire analogique virtuel en logiciel libre multi-plateforme pour Linux, macOS et Windows. Il fonctionne sur le principe de rack VCV dans lequel on place différents modules, que l'on peut relier les uns aux autres via des câbles virtuels et peut simuler un Eurorack entier.
 
-		- Un [synthétiseur modulaire](https://fr.wikipedia.org/wiki/Synth%C3%A9tiseur_modulaire) est un synthétiseur composé d'un ensemble de modules indépendants où chacun remplit une fonction élémentaire :
+		- Un synthétiseur modulaire est un synthétiseur composé d'un ensemble de modules indépendants où chacun remplit une fonction élémentaire :
 			- oscillateur (VCO)
 			- filtre (VCF)
 			- amplificateur (VCA)

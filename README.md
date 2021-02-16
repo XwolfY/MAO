@@ -77,6 +77,10 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - Effet sur la Master [cf live felckin]
 	- Effet Secret Ott by retrovision
 	- Ajouter un FabFilter-Pro L2 pour augmenter le volume final
+## Layering
+- Le layering est utilisé pour enrichir un son, cette technique consiste à superposer plusieurs sons du même type afin de créer une version finale plus enrichi
+
+<div align=center><img src="https://modeaudio.com/img/magazine/541c64a2620a7.jpg" height=300/></div>
 
 ## Les Bases du Hardstyle
 - 3 majeures catégories de son pour faire du hardstyle : 
@@ -130,3 +134,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Comment faire un kick hardstyle](https://www.youtube.com/watch?v=o2hdDIOp-4g)
 - [Harmonie Fonctionnelle](http://www.aprlmusic.com/?tag=harmonie-fonctionnelle)
 - [Les Modes en musiques](https://fr.wikipedia.org/wiki/Mode_(musique))
+- [Sound design: Le Layering](https://la-guerre-des-potards.com/sound-design-layering/)

@@ -10,7 +10,7 @@
 	- [Notion de cadence](#notion-de-cadence-)
 	- [Qu'est ce que l'harmonie](https://blog.landr.com/fr/harmonie-en-musique/)
 - [À savoir](#à-savoir)
-- [Layering](#Layering)
+- [Le Layering](#Layering)
 - [Les Bases du Hardstyle](#les-bases-du-hardstyle)
 	- [Le kick](#le-kick)
 - [Liens utiles](#Liens-utiles)

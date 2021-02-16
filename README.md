@@ -142,3 +142,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Harmonie Fonctionnelle](http://www.aprlmusic.com/?tag=harmonie-fonctionnelle)
 - [Les Modes en musiques](https://fr.wikipedia.org/wiki/Mode_(musique))
 - [Sound design: Le Layering](https://la-guerre-des-potards.com/sound-design-layering/)
+- [Splice: samples](https://splice.com/)

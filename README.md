@@ -115,6 +115,9 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 ## Music Modular: VCV Rack
 - VCV Rack est un synthétiseur modulaire analogique virtuel en logiciel libre multi-plateforme pour Linux, macOS et Windows. Il fonctionne sur le principe de rack VCV dans lequel on place différents modules, que l'on peut relier les uns aux autres via des câbles virtuels et peut simuler un Eurorack entier.
 
+	- Le kick est constitué de 2 parties :
+			- L'Attack ( partie du début qui tape ^^)
+			- La Tail [la queue] ( fin du kick en général une basse agressive )
 <div align=center><img src="https://i.ytimg.com/vi/l7Ig1ieeW5U/maxresdefault.jpg" height=300/></div>
 
 ### Liens utiles

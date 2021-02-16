@@ -113,6 +113,7 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - use Overdrive to make distortion
 
 ## Music Modular: VCV Rack
+- VCV Rack est un synthétiseur modulaire analogique virtuel en logiciel libre multi-plateforme pour Linux, macOS et Windows. Il fonctionne sur le principe de rack VCV dans lequel on place différents modules, que l'on peut relier les uns aux autres via des câbles virtuels et peut simuler un Eurorack entier.
 
 <div align=center><img src="https://i.ytimg.com/vi/l7Ig1ieeW5U/maxresdefault.jpg" height=300/></div>
 

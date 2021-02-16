@@ -129,6 +129,8 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 
 <div align=center><img src="https://i.ytimg.com/vi/l7Ig1ieeW5U/maxresdefault.jpg" height=300/></div>
 
+- [Les signaux: A quoi servent-ils ?](https://fr.audiofanzine.com/synthetiseur-modulaire/editorial/dossiers/les-signaux-partie-1-a-quoi-servent-ils.html)
+
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 
@@ -156,3 +158,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [Les Modes en musiques](https://fr.wikipedia.org/wiki/Mode_(musique))
 - [Sound design: Le Layering](https://la-guerre-des-potards.com/sound-design-layering/)
 - [Splice: samples](https://splice.com/)
+- [Les signaux: A quoi servent-ils ?](https://fr.audiofanzine.com/synthetiseur-modulaire/editorial/dossiers/les-signaux-partie-1-a-quoi-servent-ils.html)

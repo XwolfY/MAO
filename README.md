@@ -14,7 +14,7 @@
 - [Les Bases du Hardstyle](#les-bases-du-hardstyle)
 	- [Le kick](#le-kick)
 - [Astuces Techno / Minimal](#astuces-techno--minimal)
-- [Music Modular: VST Crack](#)
+- [Music Modular: VCV Rack](#music-modular-vcv-rack)
 - [Liens utiles](#Liens-utiles)
 ## Solfège
 <div align=center><img src="http://blog.carpediese.fr/wp-content/uploads/2013/09/touches-du-piano.jpg" height=300/></div>
@@ -112,7 +112,9 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - Drum Buss can be use to boost drums like kick
 - use Overdrive to make distortion
 
-## Music Modular: VST Crack
+## Music Modular: VCV Rack
+
+<div align=center><img src="https://i.ytimg.com/vi/l7Ig1ieeW5U/maxresdefault.jpg" height=300/></div>
 
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 

@@ -132,6 +132,15 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 
 - [Les signaux: A quoi servent-ils ?](https://fr.audiofanzine.com/synthetiseur-modulaire/editorial/dossiers/les-signaux-partie-1-a-quoi-servent-ils.html)
 
+## Analyse harmonique
+
+Quelques schemas :
+
+<div align=center><img src="https://i2.wp.com/osonslaguitarejazz.com/wp-content/uploads/2015/06/tab-degrc3a9s-gamme-majeure-c1.png?resize=541%2C291&ssl=1" height=250/></div>
+<div align=center><img src="https://i0.wp.com/osonslaguitarejazz.com/wp-content/uploads/2015/06/img-approche-harmonie.png?ssl=1" height=250/></div>
+<div align=center><img src="https://blog.landr.com/wp-content/uploads/2019/04/WhatisHarmony_FunctionalHarmony-1.jpg" height=250/></div>
+<div align=center><img src="https://composer-sa-musique.fr/wp-content/uploads/2013/04/structure-de-la-gamme-majeure.jpg" height=250/></div>
+
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 
@@ -164,3 +173,4 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - [147 WAYS TO WRITE A MELODY - Andrew Huang YTB](https://www.youtube.com/watch?v=I2Ej4Jpquas)
 - [147 WAYS TO WRITE A MELODY - Andrew Huang Stylesheet](https://docs.google.com/spreadsheets/d/1Sy1kxzHqPFwe-MShg6OXlh8pC9aDltermSO4IvqVqUU/edit#gid=0)
 - [How to make TRACKS and not just LOOPS - Andrew Huang YTB](https://www.youtube.com/watch?v=NEy9L7zyrGE&t=446s)
+- [Approche analyse harmonique](https://osonslaguitarejazz.com/harmonie-jazz/approche-analyse-harmonique/)

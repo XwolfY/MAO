@@ -15,6 +15,7 @@
 	- [Le kick](#le-kick)
 - [Astuces Techno / Minimal](#astuces-techno--minimal)
 - [Music Modular: VCV Rack](#music-modular-vcv-rack)
+- [Analyse harmonique](https://github.com/XwolfY/MAO/blob/master/README.md#analyse-harmonique)
 - [Liens utiles](#Liens-utiles)
 ## Solfège
 <div align=center><img src="http://blog.carpediese.fr/wp-content/uploads/2013/09/touches-du-piano.jpg" height=300/></div>

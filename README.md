@@ -176,3 +176,4 @@ Quelques schemas :
 - [How to make TRACKS and not just LOOPS - Andrew Huang YTB](https://www.youtube.com/watch?v=NEy9L7zyrGE&t=446s)
 - [Approche analyse harmonique](https://osonslaguitarejazz.com/harmonie-jazz/approche-analyse-harmonique/)
 - [Cours de solfège tout savoir sur les gammes](https://composer-sa-musique.fr/cours-de-solfege-tout-savoir-sur-les-gammes/)
+- [Différence Mixage vs Mastering](https://www.projethomestudio.fr/definition-mixage-mastering/)

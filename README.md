@@ -177,3 +177,4 @@ Quelques schemas :
 - [Approche analyse harmonique](https://osonslaguitarejazz.com/harmonie-jazz/approche-analyse-harmonique/)
 - [Cours de solfège tout savoir sur les gammes](https://composer-sa-musique.fr/cours-de-solfege-tout-savoir-sur-les-gammes/)
 - [Différence Mixage vs Mastering](https://www.projethomestudio.fr/definition-mixage-mastering/)
+- [How To Make Better Melodies (Video YTB)](https://www.youtube.com/watch?v=dzrm1mhOaA0&t=356s)

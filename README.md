@@ -180,3 +180,4 @@ Quelques schemas :
 - [How To Make Better Melodies (Video YTB)](https://www.youtube.com/watch?v=dzrm1mhOaA0&t=356s)
 - [La Phase](https://www.easyzic.com/dossiers/la-phase,h26.html)
 - [Différence entre mono & stéréo](https://la-guerre-des-potards.com/les-differences-entre-mono-stereo-et-mid-side/)
+- [Comment accompagner une mélodie au piano ?](https://www.youtube.com/watch?v=Ja4jfh-RLRw)

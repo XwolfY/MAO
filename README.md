@@ -44,6 +44,8 @@
 
 <div align=center><img src="https://www.musictheoryacademy.com/wp-content/uploads/2013/11/Major-Key-Chord-Progressions.png" height=550/><img src="https://www.musictheoryacademy.com/wp-content/uploads/2013/11/Minor-Key-Chord-Progressions.png" height=550/></div>
 
+<div align=center><img src="https://www.skoove.com/blog/wp-content/uploads/2020/10/Chord-Chart.p" height=550/></div>
+
 ### Notion de cadence :
 Les cadences sont à la musique ce que les signes de ponctuation sont à la littérature. Elles servent à aérer et structurer le discours musical.
 <div align=center><img src="https://composer-sa-musique.fr/wp-content/uploads/2014/03/sch%C3%A9ma-2.jpg" height=250/></div>

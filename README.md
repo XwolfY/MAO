@@ -40,6 +40,11 @@
 	- Accord La Majeur `La Do# Mi`
 	- Accord La Mineur `La Do Mi`
 
+
+<div align=center><img src="https://mixedinkey.com/wp-content/uploads/2019/11/pic_four.png" height=500/></div>
+	
+<div align=center><img src="https://dazwatsonmusic.weebly.com/uploads/1/2/0/6/120691504/chords-by-key-chords-in-the-key-of-a-b-c-d-e-f-g-flat-sharp-minor_1.jpg" height=500/></div>
+
 ### Notion de cadence :
 Les cadences sont à la musique ce que les signes de ponctuation sont à la littérature. Elles servent à aérer et structurer le discours musical.
 <div align=center><img src="https://composer-sa-musique.fr/wp-content/uploads/2014/03/sch%C3%A9ma-2.jpg" height=250/></div>

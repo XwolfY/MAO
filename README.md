@@ -187,3 +187,4 @@ Quelques schemas :
 - [La Phase](https://www.easyzic.com/dossiers/la-phase,h26.html)
 - [Différence entre mono & stéréo](https://la-guerre-des-potards.com/les-differences-entre-mono-stereo-et-mid-side/)
 - [Comment accompagner une mélodie au piano ?](https://www.youtube.com/watch?v=Ja4jfh-RLRw)
+- [► TUTO | LE GUIDE ULTIME DU DJ DÉBUTANT : Apprendre les bases du mix en 15 minutes](https://www.youtube.com/watch?v=8tlPP9-m_nw)

@@ -144,6 +144,8 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 Quelques schemas :
 
 <div align=center><img src="https://i2.wp.com/osonslaguitarejazz.com/wp-content/uploads/2015/06/tab-degrc3a9s-gamme-majeure-c1.png?resize=541%2C291&ssl=1" height=250/></div>
+<div align=center><img src="http://www.flpresets.com/wp-content/uploads/2020/06/Tone-Tendencies-in-Major-1-1024x403.png" height=250/></div>
+<div align=center><img src="http://www.flpresets.com/wp-content/uploads/2020/06/Tone-Tendencies-in-Minor.png" height=250/></div>
 <div align=center><img src="https://i0.wp.com/osonslaguitarejazz.com/wp-content/uploads/2015/06/img-approche-harmonie.png?ssl=1" height=250/></div>
 <div align=center><img src="https://blog.landr.com/wp-content/uploads/2019/04/WhatisHarmony_FunctionalHarmony-1.jpg" height=250/></div>
 <div align=center><img src="https://composer-sa-musique.fr/wp-content/uploads/2013/04/structure-de-la-gamme-majeure.jpg" height=250/></div>
@@ -188,3 +190,5 @@ Quelques schemas :
 - [Différence entre mono & stéréo](https://la-guerre-des-potards.com/les-differences-entre-mono-stereo-et-mid-side/)
 - [Comment accompagner une mélodie au piano ?](https://www.youtube.com/watch?v=Ja4jfh-RLRw)
 - [► TUTO | LE GUIDE ULTIME DU DJ DÉBUTANT : Apprendre les bases du mix en 15 minutes](https://www.youtube.com/watch?v=8tlPP9-m_nw)
+- [3 Magicals Rules That You Must Follow to write melodies](http://www.flpresets.com/melody/part1/)
+- 

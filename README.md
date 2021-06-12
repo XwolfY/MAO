@@ -173,7 +173,7 @@ Quelques schemas :
 - [Construire vos propres accords (video)](https://www.youtube.com/watch?v=lTWLL3hZ3RY)
 - [Qu'est ce que l'harmonie](https://blog.landr.com/fr/harmonie-en-musique/)
 - [Comment faire un kick hardstyle](https://www.youtube.com/watch?v=o2hdDIOp-4g)
-- [Harmonie Fonctionnelle](http://www.aprlmusic.com/?tag=harmonie-fonctionnelle)
+- [Harmonie Tonale](https://fr.wikipedia.org/wiki/Harmonie_tonale)
 - [Les Modes en musiques](https://fr.wikipedia.org/wiki/Mode_(musique))
 - [Sound design: Le Layering](https://la-guerre-des-potards.com/sound-design-layering/)
 - [Splice: samples](https://splice.com/)

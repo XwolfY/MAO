@@ -191,4 +191,4 @@ Quelques schemas :
 - [Comment accompagner une mélodie au piano ?](https://www.youtube.com/watch?v=Ja4jfh-RLRw)
 - [► TUTO | LE GUIDE ULTIME DU DJ DÉBUTANT : Apprendre les bases du mix en 15 minutes](https://www.youtube.com/watch?v=8tlPP9-m_nw)
 - [3 Magicals Rules That You Must Follow to write melodies](http://www.flpresets.com/melody/part1/)
-- 
+- [Acid Pattern Writing Fundamentals with the RE-303, a Din Sync replica of the Roland TB-303, by Beyun](https://www.youtube.com/watch?v=785Vu3oXk5w)

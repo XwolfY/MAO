@@ -193,3 +193,5 @@ Quelques schemas :
 - [3 Magicals Rules That You Must Follow to write melodies](http://www.flpresets.com/melody/part1/)
 - [Acid Pattern Writing Fundamentals with the RE-303, a Din Sync replica of the Roland TB-303, by Beyun](https://www.youtube.com/watch?v=785Vu3oXk5w)
 - [Partage grille accords pour toutes les chansons](https://www.ultimate-guitar.com/)
+- [Polytonalité - Wiki (FR)](https://fr.wikipedia.org/wiki/Polytonalit%C3%A9)
+- [Poyltonality - Wiki (EN)](https://en.wikipedia.org/wiki/Polytonality)

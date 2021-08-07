@@ -196,3 +196,4 @@ Quelques schemas :
 - [Polytonalité - Wiki (FR)](https://fr.wikipedia.org/wiki/Polytonalit%C3%A9)
 - [Poyltonality - Wiki (EN)](https://en.wikipedia.org/wiki/Polytonality)
 - [typical structure music](https://www.masterclass.com/articles/music-101-what-is-song-structure#6-common-parts-of-a-song)
+- [Mélanger des gammes ?](https://www.guitariste.com/forums/technique,melanger-des-gammes,68533.html)

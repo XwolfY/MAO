@@ -198,3 +198,4 @@ Quelques schemas :
 - [typical structure music](https://www.masterclass.com/articles/music-101-what-is-song-structure#6-common-parts-of-a-song)
 - [Mélanger des gammes ?](https://www.guitariste.com/forums/technique,melanger-des-gammes,68533.html)
 - [En finir avec les bases de l'harmonie](https://www.guitariste.com/forums/theorie,pour-en-finir-avec-les-bases-de-l-harmonie,58389.html)
+- [Ptn de sample hardcore/techno/etc...](https://www.fragmentaudio.com/)

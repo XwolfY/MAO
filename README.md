@@ -199,3 +199,5 @@ Quelques schemas :
 - [Mélanger des gammes ?](https://www.guitariste.com/forums/technique,melanger-des-gammes,68533.html)
 - [En finir avec les bases de l'harmonie](https://www.guitariste.com/forums/theorie,pour-en-finir-avec-les-bases-de-l-harmonie,58389.html)
 - [Ptn de sample hardcore/techno/etc...](https://www.fragmentaudio.com/)
+- [Ableton 11 Suite crack | vst.ru](http://vsthouse.ru/load/prilogeniya/sekvensory/ableton_live_11_suite_11_0_11_win_osx_x64_fixed_10_2021_multilang_rus_net_sekvensor/19-1-0-31153)
+- [Loopmaster samples](https://www.loopmasters.com/)

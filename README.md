@@ -201,4 +201,4 @@ Quelques schemas :
 - [Ptn de sample hardcore/techno/etc...](https://www.fragmentaudio.com/)
 - [Ableton 11 Suite crack | vst.ru](http://vsthouse.ru/load/prilogeniya/sekvensory/ableton_live_11_suite_11_0_11_win_osx_x64_fixed_10_2021_multilang_rus_net_sekvensor/19-1-0-31153)
 - [Loopmaster samples](https://www.loopmasters.com/)
-- [youtube.com/watch?v=BEzdRQhRur8](https://www.youtube.com/watch?v=BEzdRQhRur8)
+- [Another Mental/Acidcore Kick Tutorial with a Technique to get unique Kickdrums](https://www.youtube.com/watch?v=BEzdRQhRur8)

@@ -204,3 +204,5 @@ Quelques schemas :
 - [Another Mental/Acidcore Kick Tutorial with a Technique to get unique Kickdrums](https://www.youtube.com/watch?v=BEzdRQhRur8)
 - [Comment paramétrer la latence dans Ableton](https://www.youtube.com/watch?v=m_5r8pQQT58)
 - [Find key & tempo of any musics](https://tunebat.com/)
+- [Rendre son refrain inoubliable - Mode d'emploi](https://composer-sa-musique.fr/rendre-son-refrain-inoubliable-mode-demploi/)
+- [La structure d'une chanson](https://composer-sa-musique.fr/la-structure-dune-chanson/)

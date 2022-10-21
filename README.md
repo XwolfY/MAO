@@ -206,3 +206,4 @@ Quelques schemas :
 - [Find key & tempo of any musics](https://tunebat.com/)
 - [Rendre son refrain inoubliable - Mode d'emploi](https://composer-sa-musique.fr/rendre-son-refrain-inoubliable-mode-demploi/)
 - [La structure d'une chanson](https://composer-sa-musique.fr/la-structure-dune-chanson/)
+- [Samples packs Hardcore | OnPointSamples](https://onpointsamples.com/collections/overview)

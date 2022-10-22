@@ -207,3 +207,4 @@ Quelques schemas :
 - [Rendre son refrain inoubliable - Mode d'emploi](https://composer-sa-musique.fr/rendre-son-refrain-inoubliable-mode-demploi/)
 - [La structure d'une chanson](https://composer-sa-musique.fr/la-structure-dune-chanson/)
 - [Samples packs Hardcore | OnPointSamples](https://onpointsamples.com/collections/overview)
+- [How to Recreate Any Sound | YTB](https://www.youtube.com/watch?v=cqJKzJPKoZE)

@@ -208,3 +208,4 @@ Quelques schemas :
 - [La structure d'une chanson](https://composer-sa-musique.fr/la-structure-dune-chanson/)
 - [Samples packs Hardcore | OnPointSamples](https://onpointsamples.com/collections/overview)
 - [How to Recreate Any Sound | YTB](https://www.youtube.com/watch?v=cqJKzJPKoZE)
+- [This Will Fix Most of Your BASS Problems 🔊 | YTB](https://www.youtube.com/watch?v=OTKx3-EjS30)

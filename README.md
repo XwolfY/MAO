@@ -209,3 +209,4 @@ Quelques schemas :
 - [Samples packs Hardcore | OnPointSamples](https://onpointsamples.com/collections/overview)
 - [How to Recreate Any Sound | YTB](https://www.youtube.com/watch?v=cqJKzJPKoZE)
 - [This Will Fix Most of Your BASS Problems 🔊 | YTB](https://www.youtube.com/watch?v=OTKx3-EjS30)
+- [3 SIMPLE Rules for Catchy Melodies EVERY Time 🎹](https://www.youtube.com/watch?v=rXJka9Rb0Bo)

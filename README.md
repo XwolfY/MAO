@@ -212,3 +212,4 @@ Quelques schemas :
 - [3 SIMPLE Rules for Catchy Melodies EVERY Time 🎹](https://www.youtube.com/watch?v=rXJka9Rb0Bo)
 - [Mes 10 conseils pour bien progresser en design sonore | Audiofanzine](https://www.youtube.com/watch?v=wLGtcW_9qKg)
 - [How to Recreate Any Sound | Alice Yalcin Efe YTB](https://www.youtube.com/watch?v=cqJKzJPKoZE)
+- [Ben Böhmer: How To Play Live with Ableton | Setup Explained Masterclass](https://www.youtube.com/watch?v=0gydjvLEpRk)

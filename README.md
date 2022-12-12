@@ -213,3 +213,4 @@ Quelques schemas :
 - [Mes 10 conseils pour bien progresser en design sonore | Audiofanzine](https://www.youtube.com/watch?v=wLGtcW_9qKg)
 - [How to Recreate Any Sound | Alice Yalcin Efe YTB](https://www.youtube.com/watch?v=cqJKzJPKoZE)
 - [Ben Böhmer: How To Play Live with Ableton | Setup Explained Masterclass](https://www.youtube.com/watch?v=0gydjvLEpRk)
+- [Profondeur & Espace dans un mixage](https://deveniringeson.com/profondeur-et-espace-dans-un-mixage/)

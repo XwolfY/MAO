@@ -214,3 +214,4 @@ Quelques schemas :
 - [How to Recreate Any Sound | Alice Yalcin Efe YTB](https://www.youtube.com/watch?v=cqJKzJPKoZE)
 - [Ben Böhmer: How To Play Live with Ableton | Setup Explained Masterclass](https://www.youtube.com/watch?v=0gydjvLEpRk)
 - [Profondeur & Espace dans un mixage](https://deveniringeson.com/profondeur-et-espace-dans-un-mixage/)
+- [LE TEMPLATE ABLETON ULTIME POUR TES DJ SETS ! 🇫🇷 | YTB FEM](https://www.youtube.com/watch?v=hXx4bgwfLac)

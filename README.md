@@ -215,3 +215,4 @@ Quelques schemas :
 - [Ben Böhmer: How To Play Live with Ableton | Setup Explained Masterclass](https://www.youtube.com/watch?v=0gydjvLEpRk)
 - [Profondeur & Espace dans un mixage](https://deveniringeson.com/profondeur-et-espace-dans-un-mixage/)
 - [LE TEMPLATE ABLETON ULTIME POUR TES DJ SETS ! 🇫🇷 | YTB FEM](https://www.youtube.com/watch?v=hXx4bgwfLac)
+- [Qu'est ce que le RMS ?](https://emastered.com/fr/blog/rms-level-for-mastering#:~:text=Qu'est%2Dce%20que%20RMS,une%20moyenne%20du%20signal%20audio.)

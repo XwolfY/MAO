@@ -153,7 +153,7 @@ Quelques schemas :
 
 ## Chord progression quick reference guide
 
-<div align=center><img src="http://annexproductions.eu/wp-content/TutorialFiles/ChordProgressionQuickReferenceGuide.png" height=1000/></div>
+<div align=center><img src="http://annexproductions.eu/wp-content/TutorialFiles/ChordProgressionQuickReferenceGuide.png" height=750/></div>
 
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 

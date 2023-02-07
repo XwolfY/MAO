@@ -150,6 +150,9 @@ Quelques schemas :
 <div align=center><img src="https://blog.landr.com/wp-content/uploads/2019/04/WhatisHarmony_FunctionalHarmony-1.jpg" height=250/></div>
 <div align=center><img src="https://composer-sa-musique.fr/wp-content/uploads/2013/04/structure-de-la-gamme-majeure.jpg" height=250/></div>
 
+
+## Chord progression quick reference guide
+<div align=center><img src="http://annexproductions.eu/wp-content/TutorialFiles/ChordProgressionQuickReferenceGuide.png" height=250/></div>
 ### Liens utiles
 - [Ableton Audio Effects References](https://www.ableton.com/en/manual/live-audio-effect-reference/) 
 - [Ableton MIDI Effects References](https://www.ableton.com/en/manual/live-midi-effect-reference/) 
@@ -217,3 +220,5 @@ Quelques schemas :
 - [LE TEMPLATE ABLETON ULTIME POUR TES DJ SETS ! 🇫🇷 | YTB FEM](https://www.youtube.com/watch?v=hXx4bgwfLac)
 - [Qu'est ce que le RMS ?](https://emastered.com/fr/blog/rms-level-for-mastering#:~:text=Qu'est%2Dce%20que%20RMS,une%20moyenne%20du%20signal%20audio.)
 - [Vengeance Samples & Pack & VST](https://www.vengeance-sound.com/samples.php)
+- [PIANO CHORDS CHART](https://www.onlinepianocoach.com/support-files/chordchartforpiano.pdf)
+- [Annex from ytb | Website](https://annexproductions.eu/)

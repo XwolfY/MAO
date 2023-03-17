@@ -225,3 +225,4 @@ Quelques schemas :
 - [Vengeance Samples & Pack & VST](https://www.vengeance-sound.com/samples.php)
 - [PIANO CHORDS CHART](https://www.onlinepianocoach.com/support-files/chordchartforpiano.pdf)
 - [Annex from ytb | Website](https://annexproductions.eu/)
+- [10 best hardcore plugins](https://integraudio.com/10-best-hardcore-plugin/)

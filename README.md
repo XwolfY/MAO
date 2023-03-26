@@ -226,3 +226,4 @@ Quelques schemas :
 - [PIANO CHORDS CHART](https://www.onlinepianocoach.com/support-files/chordchartforpiano.pdf)
 - [Annex from ytb | Website](https://annexproductions.eu/)
 - [10 best hardcore plugins](https://integraudio.com/10-best-hardcore-plugin/)
+- [XO plugin | Browser samples](https://www.xlnaudio.com/products/xo)

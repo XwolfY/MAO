@@ -16,6 +16,7 @@
 - [Astuces Techno / Minimal](#astuces-techno--minimal)
 - [Music Modular: VCV Rack](#music-modular-vcv-rack)
 - [Analyse harmonique](https://github.com/XwolfY/MAO/blob/master/README.md#analyse-harmonique)
+- [Mixing Wheel](https://github.com/XwolfY/MAO/blob/master/README.md#mixing-wheel)
 - [Chord progression quick reference guide](https://github.com/XwolfY/MAO/blob/master/README.md#chord-progression-quick-reference-guide)
 - [Liens utiles](#Liens-utiles)
 ## Solfège
@@ -153,7 +154,7 @@ Quelques schemas :
 
 ## Mixing Wheel
 
-<div align=center><img src="https://mixedinkey.com/wp-content/uploads/2018/03/CamelotWheel.jpg" height=250/></div>
+<div align=center><img src="https://mixedinkey.com/wp-content/uploads/2018/03/CamelotWheel.jpg" height=500/></div>
 
 ## Chord progression quick reference guide
 

@@ -151,6 +151,9 @@ Quelques schemas :
 <div align=center><img src="https://blog.landr.com/wp-content/uploads/2019/04/WhatisHarmony_FunctionalHarmony-1.jpg" height=250/></div>
 <div align=center><img src="https://composer-sa-musique.fr/wp-content/uploads/2013/04/structure-de-la-gamme-majeure.jpg" height=250/></div>
 
+## Mixing Wheel
+
+<div align=center><img src="https://mixedinkey.com/wp-content/uploads/2018/03/CamelotWheel.jpg" height=250/></div>
 
 ## Chord progression quick reference guide
 

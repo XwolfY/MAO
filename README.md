@@ -154,7 +154,7 @@ Quelques schemas :
 
 ## Mixing Wheel
 
-<div align=center><img src="https://mixedinkey.com/wp-content/uploads/2018/03/CamelotWheel.jpg" height=500/></div>
+<div align=center><a href="https://mixedinkey.com/harmonic-mixing-guide/"><img src="https://mixedinkey.com/wp-content/uploads/2018/03/CamelotWheel.jpg" height=500/></a></div>
 
 ## Chord progression quick reference guide
 

@@ -227,3 +227,4 @@ Quelques schemas :
 - [Annex from ytb | Website](https://annexproductions.eu/)
 - [10 best hardcore plugins](https://integraudio.com/10-best-hardcore-plugin/)
 - [XO plugin | Browser samples](https://www.xlnaudio.com/products/xo)
+- [Mixing Weel](https://mixedinkey.com/harmonic-mixing-guide/)

@@ -232,3 +232,4 @@ Quelques schemas :
 - [10 best hardcore plugins](https://integraudio.com/10-best-hardcore-plugin/)
 - [XO plugin | Browser samples](https://www.xlnaudio.com/products/xo)
 - [Mixing Weel](https://mixedinkey.com/harmonic-mixing-guide/)
+- [4Download.net | VST Crakcs](https://4download.net/)

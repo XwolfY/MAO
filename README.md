@@ -233,3 +233,6 @@ Quelques schemas :
 - [XO plugin | Browser samples](https://www.xlnaudio.com/products/xo)
 - [Mixing Weel](https://mixedinkey.com/harmonic-mixing-guide/)
 - [4Download.net | VST Crakcs](https://4download.net/)
+- [3DX Novonotes](https://www.youtube.com/watch?v=2b4wZb-Okvk)
+- [HPL2 Novonotes](https://novo-notes.com/hpl2-processor)
+- [Melodyne | Autotune like](https://shop.celemony.com/cgi-bin/WebObjects/CelemonyShop.woa)

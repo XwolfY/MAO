@@ -236,3 +236,6 @@ Quelques schemas :
 - [3DX Novonotes](https://www.youtube.com/watch?v=2b4wZb-Okvk)
 - [HPL2 Novonotes](https://novo-notes.com/hpl2-processor)
 - [Melodyne | Autotune like](https://shop.celemony.com/cgi-bin/WebObjects/CelemonyShop.woa)
+- [DIY Heritage Synthetizer](https://www.heritagesynthesizers.fr/index.php/audio-and-video/)
+- [Plural Modular Synthetizer| PMS YTB Channel](https://www.youtube.com/@JeromeBridonneau)
+- [PMS Download link Google drive](https://drive.google.com/drive/folders/1qhJ6G2pd66SC6D6p7DJuLCOb5D-PAixf)

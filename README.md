@@ -239,3 +239,4 @@ Quelques schemas :
 - [DIY Heritage Synthetizer](https://www.heritagesynthesizers.fr/index.php/audio-and-video/)
 - [Plural Modular Synthetizer| PMS YTB Channel](https://www.youtube.com/@JeromeBridonneau)
 - [PMS Download link Google drive](https://drive.google.com/drive/folders/1qhJ6G2pd66SC6D6p7DJuLCOb5D-PAixf)
+- [How write Ghibli Chord | YTB](https://www.youtube.com/watch?v=Tp5kjAFrQak)

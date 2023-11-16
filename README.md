@@ -121,6 +121,11 @@ Les cadences sont à la musique ce que les signes de ponctuation sont à la litt
 - Drum Buss can be use to boost drums like kick
 - use Overdrive to make distortion
 
+## E.g Original Mix | Structure of house production
+
+DJ Intro (16-32 Bars) – Breakdown (16-32 Bars) – Drop (16-32 Bars) – Drop Variation (Optional) (16-32 Bars) – Breakdown (16-32 Bars) – Drop (16-32 Bars) – Outro (16-32 Bars)
+	<div align=center><img src="https://www.edmprod.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-07-at-12.24.18-pm-1536x524.png.webp" height=300/></div>
+
 ## Music Modular: VCV Rack
 - VCV Rack est un synthétiseur modulaire analogique virtuel en logiciel libre multi-plateforme pour Linux, macOS et Windows. Il fonctionne sur le principe de rack VCV dans lequel on place différents modules, que l'on peut relier les uns aux autres via des câbles virtuels et peut simuler un Eurorack entier.
 
@@ -242,3 +247,4 @@ Quelques schemas :
 - [How write Ghibli Chord | YTB](https://www.youtube.com/watch?v=Tp5kjAFrQak)
 - [Chords MIDI Files | Maxence Carp](https://drive.google.com/file/d/126uIIia7_z0gEJYM9yfkvzqd4vlrGrol/view?usp=sharing)
 - [Unfiltered Audio Specops](https://www.plugin-alliance.com/en/products/unfiltered_audio_specops.html)
+- [How To Make House Music](https://www.edmprod.com/how-to-make-house-music/)

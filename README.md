@@ -248,3 +248,4 @@ Quelques schemas :
 - [Chords MIDI Files | Maxence Carp](https://drive.google.com/file/d/126uIIia7_z0gEJYM9yfkvzqd4vlrGrol/view?usp=sharing)
 - [Unfiltered Audio Specops](https://www.plugin-alliance.com/en/products/unfiltered_audio_specops.html)
 - [How To Make House Music](https://www.edmprod.com/how-to-make-house-music/)
+- [Adpr master audio | check reference track](https://www.adptraudio.com/metric-ab)
